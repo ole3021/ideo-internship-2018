@@ -1,0 +1,18 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+
+.back-grey {
+  background: #f0f4f6;
+}
+
+.left-align {
+  text-align: left;
+}
+
+.bg-primary a {
+  color: black !important;
+}
+
+.btn {
+  background: #fcec4e;
+  color: #687980;
+}
