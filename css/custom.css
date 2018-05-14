@@ -17,6 +17,20 @@
   color: #687980;
 }
 
+.btn:visited {
+  background: #fcec4e;
+  color: #687980;
+}
+
+.btn:active {
+  background: #fcec4e;
+  color: #687980;
+}
+
 .uppercase {
   font-family: "Gotham", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.blue {
+  color: blue;
 }
